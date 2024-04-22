@@ -3,8 +3,8 @@
 
 #define SIZE_OF_STRUCT 10
 
-unsigned int i;    // glabal variable for arrays
-unsigned int j;
+unsigned char i;    // glabal variable for arrays
+unsigned char j;
 
 
 struct family_member
