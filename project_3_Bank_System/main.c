@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE_OF_STRUCT 5
+#define SIZE_OF_STRUCT 5            //number of customer
 #define SIZE_OF_PASSWORD 5
 
 unsigned char i;
